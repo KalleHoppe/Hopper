@@ -11,8 +11,8 @@ It reminds of the Corne but has a splayed layout and a more agressive stagger.
 - Batery and on/off switch for wireless setup
 - Oled
 - The inner tumb can be replaced by a rotary switch
-<div align="center" style="width:900px;">
- ![HopperMX](https://github.com/KalleHoppe/Hopper/blob/main/images/hopperMX.jpg)
+<div align="center" >
+ <img src="https://github.com/KalleHoppe/Hopper/blob/main/images/hopperMX.jpg" width:900px/>
  </div>
 
 ## Parts
