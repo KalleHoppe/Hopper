@@ -16,6 +16,9 @@ It reminds of the Corne but has a splayed layout and a more agressive stagger.
  <img src="https://github.com/KalleHoppe/Hopper/blob/main/images/hopperMX.jpg" width:900px/>
  </div>
 
+## Firmware
+Here you can find a working [QMK firmware](https://github.com/KalleHoppe/qmk_firmware) for the Hopper keyboard.
+
 ## Parts
 
 ### Required
