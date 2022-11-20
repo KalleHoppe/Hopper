@@ -12,7 +12,7 @@ It reminds of the Corne but has a splayed layout and a more agressive stagger.
 - Oled
 - The inner tumb can be replaced by a rotary switch
 <div align="center" style="width:900px;">
- ![HopperMX](/images/hopperMX.jpg?raw=true)
+ ![HopperMX](https://github.com/KalleHoppe/Hopper/blob/main/images/hopperMX.jpg)
  </div>
 
 ## Parts
