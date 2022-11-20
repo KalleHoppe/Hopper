@@ -8,6 +8,7 @@ It reminds of the Corne but has a splayed layout and a more agressive stagger.
 - Ortolinear
 - Splay key layout
 - RGB led per key
+- Flippable PCB
 - Batery and on/off switch for wireless setup
 - Oled
 - The inner tumb can be replaced by a rotary switch
